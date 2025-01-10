@@ -46,7 +46,7 @@ const Login = () => {
           <Image
             className="absolute w-[1069px] h-[789px] top-0 -left-1"
             alt="Task management interface preview"
-            src="/task-list-view.png"
+            src="/task-list-preview.png"
             width={1069}
             height={789}
           />
